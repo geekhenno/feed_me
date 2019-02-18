@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "29718463612",
+    "firebase_url": "https://blogs-c5fcb.firebaseio.com",
+    "project_id": "blogs-c5fcb",
+    "storage_bucket": "blogs-c5fcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29718463612:android:84ee5b3240f7078d",
+        "android_client_info": {
+          "package_name": "com.hennonoman.blogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29718463612-j66c8ssqq8mlhf6bkshdaek6sttebccg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hennonoman.blogs",
+            "certificate_hash": "cbbfd6726a0824c78773dd2c196ab750d2533bbb"
+          }
+        },
+        {
+          "client_id": "29718463612-r08vj0c28269q32q16e0gnfcb3jpnpt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMLdwp6owNcquGKIxqp_O_q2DYJfRIEwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29718463612-r08vj0c28269q32q16e0gnfcb3jpnpt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
